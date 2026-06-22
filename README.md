@@ -22,7 +22,7 @@ BOB- Saarthi is a real-time finance assistant application that incorporates faci
 - jQuery
 
 ### Steps
-1. Clone the repository:
+1. Clone this repository:
     ```bash
     git clone https://github.com/your-repo/BOB-Saarthi.git
     ```
